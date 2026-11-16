@@ -1,0 +1,4 @@
+# Install this in a separate Python 3.10-3.13 environment after training.
+# Keeping conversion separate avoids pulling converter-only dependencies into
+# the environment used for CNN training and evaluation.
+tensorflowjs==4.22.0

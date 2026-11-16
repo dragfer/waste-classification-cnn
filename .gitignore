@@ -1,0 +1,15 @@
+.venv/
+.venv-*/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+dataset/
+training/output/
+
+node_modules/
+npm-debug.log*
+
+*.ipynb_checkpoints/
+.DS_Store
+Thumbs.db

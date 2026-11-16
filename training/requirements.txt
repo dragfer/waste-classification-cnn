@@ -1,0 +1,4 @@
+# Stable TensorFlow wheels are supported on Python 3.10-3.13.
+tensorflow==2.21.0
+scikit-learn>=1.4,<2
+matplotlib>=3.8,<4

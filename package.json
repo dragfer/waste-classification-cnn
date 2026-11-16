@@ -1,0 +1,14 @@
+{
+  "name": "waste-classification",
+  "version": "1.0.0",
+  "private": true,
+  "description": "CNN-based waste image classification with browser inference.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
